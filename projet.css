@@ -16,13 +16,13 @@
 
 				  	input{
 				  		width: 30%;
-				  		background-color: ;
+				  	
                       }
                       select{
                         width: 30%; 
                       }
 				  	input:hover{
-				  		background-color:;
+				  	/* Voici ma premiere modification */
 				  	}
 					  .div{
 						width: auto;
@@ -32,7 +32,7 @@
 							border-radius:5px;
 						  width:300px;
 						  height:auto;
-						  background-color:;
+						  background-color:
 						  font-family:italic;
 						  /*font-size: 140%;*/
 					  }
